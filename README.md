@@ -21,3 +21,9 @@ CORA utilizes a **multi-agent architecture** combining:
 - **API integrations** for weather and financial data
 
 > Designed to assist customers or field agents in identifying and comparing toilet models, features, and specifications quickly using both **text** and **images**.
+
+
+## 🎥 Project Demo
+
+Watch the project overview here:  
+[➡️ View Prezi Presentation](https://prezi.com/view/6PRrGRTTEWwkRdsR2QBX/)
